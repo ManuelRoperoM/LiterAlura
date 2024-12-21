@@ -76,4 +76,4 @@ Esta relación es gestionada con una tabla intermedia en la base de datos.
 ### Menu inicial :
 
 ### Menu inicial :
-![Texto alternativo](literalura/src/images/menu.png)
+![Menu](literalura/src/images/menu.png)
