@@ -76,4 +76,4 @@ Esta relación es gestionada con una tabla intermedia en la base de datos.
 ### Menu inicial :
 
 ### Menu inicial :
-![Menu](literalura/src/images/menu.png)
+Las capturas de pantalla de la aplicacion estan en la ruta literalura/src/images
